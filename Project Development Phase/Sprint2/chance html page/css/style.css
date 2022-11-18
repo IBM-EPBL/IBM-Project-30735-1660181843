@@ -1,0 +1,53 @@
+.heading{
+    display:flex;
+     justify-content: space-around;
+      margin-top: 45px;
+}
+#resultImage{
+    height: 280px;
+    width: 280px;
+}
+#title{
+    margin-top:50px;
+    font-style: italic;
+    font-weight:400;
+    font-size: 50px;
+}
+#body{
+    background-color: blue;
+    background-size: 100%;
+}
+#image{
+    height: 335px;
+    width: 335px;
+}
+#box{
+    background-color: aqua;
+    background-size: 100%;
+}
+#box1{
+    background-color: pink;
+}
+img{
+    width:100px;
+    height: 100px;
+}
+
+#main{
+    margin:auto;
+}
+
+#mark1{
+    font-size:110px;
+    height: 250px;
+    width: 250px;
+    color: rgb(62, 180, 62)
+}
+#mark2{
+    font-size:110px;
+    height: 250px;
+    width: 250px;
+    color: red;
+}
+
+
