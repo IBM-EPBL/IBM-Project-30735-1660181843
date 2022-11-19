@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://gumlet.assettype.com/freepressjournal/2022-09/297f9f39-d580-4e1d-96dd-dc87f7ff0402/cambridge.jpg?format=webp&w=480&dpr=2.6"  align="center" alt="drawing" width="500" />
+  <img src="https://gumlet.assettype.com/freepressjournal/2022-09/297f9f39-d580-4e1d-96dd-dc87f7ff0402/cambridge.jpg?format=webp&w=480&dpr=2.6"  align="center" alt="drawing" width="250" />
   
   <br> <h3>IBM-Project-30735-1660181843</h3>
    <h1>University Admit Eligibility Predictor</h1>
